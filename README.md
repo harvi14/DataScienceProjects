@@ -14,5 +14,5 @@ Tools Used: R
 ### 4.0 Machine Learning at Scale: Tree-based Prediction of Flight Delays
 Tools Used: Databricks(Spark), python, AWS, SQL
 
-### 5.0 Hypothesis Testing: A Regression Study of Covid-19 spread
-Tools Used: R
+### 5.0 Machine Learning (NLP): Disaster Tweet Classification
+Tools Used: Python, SKLearn 
