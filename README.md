@@ -7,3 +7,12 @@ Tools Used: Pandas (Python), Matplotlib
 
 ### 2.0 Data Visualization: Interactive Data Visualization for auto thefts in Chicago
 Tools Used: Altair (python), Flask
+
+### 3.0 Hypothesis Testing: A Regression Study of Covid-19 spread
+Tools Used: R
+
+### 4.0 Hypothesis Testing: A Regression Study of Covid-19 spread
+Tools Used: R
+
+### 5.0 Hypothesis Testing: A Regression Study of Covid-19 spread
+Tools Used: R
